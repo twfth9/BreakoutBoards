@@ -4011,6 +4011,19 @@
 		(layer "Edge.Cuts")
 		(uuid "0924959d-5130-4e01-981a-703204a74770")
 	)
+	(gr_text "16"
+		(at 145.906 119.36 0)
+		(layer "F.SilkS")
+		(uuid "150da81e-c0f1-446b-ad4a-9d3ff33b7857")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify right)
+		)
+	)
 	(gr_text "20"
 		(at 145.923 109.22 0)
 		(layer "F.SilkS")
@@ -4059,6 +4072,19 @@
 				(bold yes)
 			)
 			(justify bottom)
+		)
+	)
+	(gr_text "5"
+		(at 130.92 119.36 0)
+		(layer "F.SilkS")
+		(uuid "83c15458-5f8a-4c92-9f5c-397d65482baa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left)
 		)
 	)
 	(gr_text "11"

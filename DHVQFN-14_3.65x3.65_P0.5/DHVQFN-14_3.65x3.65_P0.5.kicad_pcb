@@ -780,7 +780,7 @@
 			(drill 0.254)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "d5a8405c-19b1-4c59-9a62-decf15843db3")
+			(uuid "01ea0780-dd82-4b57-875c-d4dc49079fc5")
 		)
 		(pad "V" thru_hole circle
 			(at 0.3937 -0.3937)
@@ -788,7 +788,7 @@
 			(drill 0.254)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "d5a8405c-19b1-4c59-9a62-decf15843db3")
+			(uuid "2d314c82-6823-4014-93c5-069ebd809f5a")
 		)
 		(pad "V" thru_hole circle
 			(at 0.3937 0.3937)
@@ -796,7 +796,7 @@
 			(drill 0.254)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "d5a8405c-19b1-4c59-9a62-decf15843db3")
+			(uuid "64370550-3301-49dc-807d-39ac3a5669b7")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/Libraries/RGY0014A.stp"
@@ -3507,7 +3507,7 @@
 		(uuid "73ee7308-d3c9-46b4-8771-34e263932aa5")
 	)
 	(gr_rect
-		(start 125.603 104.648)
+		(start 125.603 104.268)
 		(end 140.589 108.077)
 		(stroke
 			(width 0.1)
@@ -3540,8 +3540,8 @@
 		(uuid "ad0d100d-c833-4891-8f43-a2683116f502")
 	)
 	(gr_rect
-		(start 127.889 102.489)
-		(end 138.303 106.68)
+		(start 126.619 102.489)
+		(end 138.553 106.68)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -3549,6 +3549,17 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "af0dc2b1-e75d-4a74-998f-c417788c849c")
+	)
+	(gr_rect
+		(start 125.623 102.5045)
+		(end 140.577 102.7955)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "d3563a17-d1f0-418c-87a5-755f5b11f9cf")
 	)
 	(gr_rect
 		(start 140.49175 99.912274)
@@ -3573,8 +3584,8 @@
 		(uuid "0924959d-5130-4e01-981a-703204a74770")
 	)
 	(gr_text "14"
-		(at 139.389 103.595274 0)
-		(layer "F.SilkS")
+		(at 139.54 103.59 0)
+		(layer "F.SilkS" knockout)
 		(uuid "28919344-5cbc-4dc0-9587-d3acd3b3ea8c")
 		(effects
 			(font
@@ -3596,8 +3607,8 @@
 		)
 	)
 	(gr_text "1"
-		(at 126.803 103.595274 0)
-		(layer "F.SilkS")
+		(at 126.12 103.59 0)
+		(layer "F.SilkS" knockout)
 		(uuid "5013554c-46c1-4504-b4b1-3e378fa58521")
 		(effects
 			(font

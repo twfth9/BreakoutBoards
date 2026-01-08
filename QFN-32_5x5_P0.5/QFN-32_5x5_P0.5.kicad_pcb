@@ -4652,6 +4652,17 @@
 		(uuid "4a90af9b-ce2c-4a34-adec-3e30664ce1fb")
 	)
 	(gr_rect
+		(start 130.332 126.3056)
+		(end 146.488 128.91)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "64e33fcc-7afd-4d01-aaa5-7bade9963c39")
+	)
+	(gr_rect
 		(start 129.7855 97.726375)
 		(end 146.72725 97.954975)
 		(stroke
@@ -4675,7 +4686,7 @@
 	)
 	(gr_rect
 		(start 128.36935 106.807)
-		(end 148.43535 115.3414)
+		(end 148.43535 113.5414)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -4696,7 +4707,7 @@
 		(uuid "9b5d7772-6252-45b2-abed-1456525cff7f")
 	)
 	(gr_rect
-		(start 128.397 125.9205)
+		(start 128.397 127.6905)
 		(end 148.463 135.1915)
 		(stroke
 			(width 0.1)
@@ -4716,6 +4727,17 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "cbd4c846-98ed-40cd-9c5b-db0e9ecf771d")
+	)
+	(gr_rect
+		(start 129.337 108.1856)
+		(end 146.453 114.94)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "e17fba9e-30bb-433b-9e17-6cff9bdbe5d7")
 	)
 	(gr_rect
 		(start 146.05425 97.726375)
@@ -4752,6 +4774,19 @@
 			(justify right)
 		)
 	)
+	(gr_text "6"
+		(at 128.26 114.33 0)
+		(layer "F.SilkS" knockout)
+		(uuid "29a7c875-14d1-445d-bc8d-739b19ae8af0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "17"
 		(at 148.463 139.7 0)
 		(layer "F.SilkS")
@@ -4778,6 +4813,19 @@
 			(justify bottom)
 		)
 	)
+	(gr_text "11"
+		(at 128.28 127.02 0)
+		(layer "F.SilkS" knockout)
+		(uuid "7d1dbe23-0215-45e6-92fa-1b5d45110dea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left)
+		)
+	)
 	(gr_text "THERMAL PAD"
 		(at 138.4215 142.303375 0)
 		(layer "F.SilkS" knockout)
@@ -4787,6 +4835,19 @@
 				(size 1.5 1.5)
 				(thickness 0.3)
 			)
+		)
+	)
+	(gr_text "27"
+		(at 148.56 114.33 0)
+		(layer "F.SilkS" knockout)
+		(uuid "c2f3ea04-b831-47a5-808d-c659e966012f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify right)
 		)
 	)
 	(gr_text "THERMAL PAD"
@@ -4824,6 +4885,19 @@
 				(bold yes)
 			)
 			(justify left)
+		)
+	)
+	(gr_text "22"
+		(at 148.58 127.02 0)
+		(layer "F.SilkS" knockout)
+		(uuid "f24b79ec-8300-4323-bd84-4a0d00bcbaad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify right)
 		)
 	)
 	(segment

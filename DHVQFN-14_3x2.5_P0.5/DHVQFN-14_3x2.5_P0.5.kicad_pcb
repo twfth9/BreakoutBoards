@@ -617,7 +617,7 @@
 			(net 10 "/15")
 			(pintype "unspecified")
 			(zone_connect 2)
-			(uuid "95a2c353-c629-4fdd-a140-89134ef8ba6d")
+			(uuid "cf97cb92-d19a-4c9a-bf80-e173bbce188d")
 		)
 		(pad "15" thru_hole circle
 			(at 0 0.45)
@@ -627,7 +627,7 @@
 			(remove_unused_layers no)
 			(net 10 "/15")
 			(pintype "unspecified")
-			(uuid "95a2c353-c629-4fdd-a140-89134ef8ba6d")
+			(uuid "1b31195b-e055-4385-923c-9f2519a9f200")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DHVQFN-14-1EP_2.5x3mm_P0.5mm_EP1x1.5mm.step"
@@ -3349,6 +3349,17 @@
 		(uuid "8d7d70e4-7f20-469f-9b6d-44a508b7a43d")
 	)
 	(gr_rect
+		(start 125.659 102.410557)
+		(end 140.533 102.795957)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "8f05f874-d740-40eb-8a6f-53503f532c8e")
+	)
+	(gr_rect
 		(start 130.302 122.630176)
 		(end 135.763 122.713037)
 		(stroke
@@ -3358,6 +3369,17 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "93711fcc-30a8-4856-9471-e65919262b1e")
+	)
+	(gr_rect
+		(start 125.663 104.2545)
+		(end 140.537 107.2655)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "9bb3376d-99cc-4de7-8a81-fff23f850333")
 	)
 	(gr_rect
 		(start 125.04425 102.173124)
@@ -3371,8 +3393,8 @@
 		(uuid "ad0d100d-c833-4891-8f43-a2683116f502")
 	)
 	(gr_rect
-		(start 127.889 102.489)
-		(end 138.303 106.68)
+		(start 126.599 102.489)
+		(end 138.593 106.68)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -3404,8 +3426,8 @@
 		(uuid "0924959d-5130-4e01-981a-703204a74770")
 	)
 	(gr_text "14"
-		(at 139.389 103.595274 0)
-		(layer "F.SilkS")
+		(at 139.57 103.59 0)
+		(layer "F.SilkS" knockout)
 		(uuid "28919344-5cbc-4dc0-9587-d3acd3b3ea8c")
 		(effects
 			(font
@@ -3427,8 +3449,8 @@
 		)
 	)
 	(gr_text "1"
-		(at 126.803 103.595274 0)
-		(layer "F.SilkS")
+		(at 126.1 103.59 0)
+		(layer "F.SilkS" knockout)
 		(uuid "5013554c-46c1-4504-b4b1-3e378fa58521")
 		(effects
 			(font
