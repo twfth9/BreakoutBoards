@@ -2482,7 +2482,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "5.3x10.2mm\n0.65mm Pitch"
+	(gr_text "3.9x4.9mm\n1.27mm Pitch"
 		(at 129.032 103.886 0)
 		(layer "F.SilkS")
 		(uuid "b42476e8-9574-4f24-bf6d-19bd060953fb")
